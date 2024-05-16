@@ -1,0 +1,2 @@
+Mum Choon Jie,Test@gmail.com,Male,23,01-04-2000,0123456789,Test@001
+Bing Xuan,bx@gmail.com,Male,12,01-03-2023,12314546,Test@001
